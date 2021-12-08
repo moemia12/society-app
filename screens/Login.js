@@ -18,7 +18,7 @@ export default function Login({ navigation }) {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Welcome back!</Text>
+      <Text style={styles.title}>Welcome to Society App!</Text>
       <TextInput
         style={styles.input}
         placeholder='Enter email'
